@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.flexi {
+    text-align: center;
+}
+
+.gold_2021 {
+    border-width: 4px;
+    border-style: solid;
+
+}
+
+.Fgold {
+    text-align: center;
+    font-size: 20px;
+}
+
+.suvidha {
+    text-align: center;
+    color: yellow;
+    text-decoration: underline;
+}
+
+.suvpara {
+    color: white;
+    font-style: italic;
+    font-size: 35px;
+    text-align: center;
+}
+
+.suvbg {
+    background-image: url(" https://images.designtrends.com/wp-content/uploads/2015/11/24065457/Brown-Backgrounds26.png");
+    background-size: cover;
+    text-align: center;
+
+}
+
+.read {
+    border-width: 0px;
+    text-decoration: underline;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.get_cash {
+    font-weight: bold;
+    font-size: 35px;
+    margin: 25px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.icon {
+    font-size: 65px;
+    color: #d0b200;
+
+}
+
+.weight {
+    text-align: center;
+}
+
+.weight_box {
+    border-radius: 16px;
+}
+
+.image2 {
+    background-size: cover;
+    height: 40vh;
+    width: 60vw;
+    margin-left: 105px;
+    padding: 15px;
+}
+
+.squ {
+    list-style-type: square;
+
+    font-size: 25px;
+    color: #b3b3b3;
+}
+
+.grey {
+    font-size: 20px;
+}
+
+.purepara {
+    font-style: italic;
+}
+
+.box {
+    border-radius: 5px;
+    border-color: white;
+}
+
+.image1 {
+    background-image: url("https://wonderfulengineering.com/wp-content/uploads/2014/05/Gold-wallpaper-19-610x457.jpg");
+    background-size: cover;
+    height: 35vh;
+
+}
+
+.navm {
+    margin-top: 60px;
+}
+
+.food-munch-logo {
+    width: 80px;
+    height: 50px;
+    font-style: italic;
+    font-size: 35px;
+
+}
+
+.sell_old {
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 30px;
+    text-align: right;
+    margin: 25px;
+    padding-top: 20px;
+
+}
+
+.sell_old_box {
+    background-color: white;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 15px;
+    text-align: right;
+
+    font-weight: bold;
+    background-color: brown;
+    color: white;
+
+}
